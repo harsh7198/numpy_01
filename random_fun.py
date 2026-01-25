@@ -43,7 +43,7 @@ arr = [1,2,3,4,5,6]
 s = np.random.permutation(arr)
 print(s)
 
-# seed() , same the random output when it is run 
+# 8 . seed() , same the random output when it is run 
 np.random.seed(1)
 b = np.random.randint(1,10,5)
 print(b)
