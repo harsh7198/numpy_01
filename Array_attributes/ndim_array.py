@@ -50,4 +50,4 @@ print(c.imag)
 print(a1.flags) # tells that hows element stored in memory 
 
 #9 astype --> to change the data type 
-print(a3.astype(str))
+print(a3.astype(str)) # change into string 
